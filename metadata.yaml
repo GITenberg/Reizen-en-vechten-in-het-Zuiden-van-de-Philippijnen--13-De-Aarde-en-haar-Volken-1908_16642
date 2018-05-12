@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6841'
     url: http://www.gutenberg.org/2009/agents/6841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16642#Reizen-en-vechten-in-het-Zuiden-van-de-Philippijnen--13-De-Aarde-en-haar-Volken-1908
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
